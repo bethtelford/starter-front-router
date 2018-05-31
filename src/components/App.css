@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 130px;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+    color: #275E96;
+}
+.Route {
+    padding: 80px 100px 0 375px;
+}

@@ -1,0 +1,26 @@
+.Header {
+    width: 270px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #070A0D;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 55px;
+}
+
+.Header img {
+    width: 200px;
+    margin: 20px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #275E96;
+}
+.active {
+    color: #E8F4FF;
+}

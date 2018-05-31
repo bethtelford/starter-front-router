@@ -1,0 +1,22 @@
+.input_box {
+    width: 40vw;
+    height: 35px;
+    margin: 50px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+input {
+    width: calc(40vw - 50px);
+    height: 50px;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #275E96;
+    border-radius: 10px;
+}
+
+.input_box img {
+    width: 30px;
+}
